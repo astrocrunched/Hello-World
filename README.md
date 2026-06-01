@@ -5,4 +5,5 @@ shimmy shimmy yay ?
 
 *insert picture here*
 
-Me doing some urban exploration in the purple room of Jamestown
+Me doing some urban exploration <br>
+in the purple room of Jamestown
