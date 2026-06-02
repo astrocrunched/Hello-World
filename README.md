@@ -5,8 +5,7 @@ shimmy shimmy yay ?
 
 ## about me
 
-:::{image}
-/Users/calpuck25/Desktop/Hello-World/CalderPhoto.png
+:::{figure} CalderPhoto.png
 :::
 
 Me doing some urban exploration <br>
