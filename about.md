@@ -1,3 +1,3 @@
 # About
 
-I'm so tired dawg ToT
+I'm so {term}`tired` dawg ToT
