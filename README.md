@@ -5,7 +5,9 @@ shimmy shimmy yay ?
 
 ## about me
 
-![picture](/Users/calpuck25/Desktop/Hello-World/CalderPhoto.png) 
+:::{image}
+/Users/calpuck25/Desktop/Hello-World/CalderPhoto.png
+:::
 
 Me doing some urban exploration <br>
 in the purple room of Jamestown
