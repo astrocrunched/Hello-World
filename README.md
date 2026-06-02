@@ -1,11 +1,11 @@
 # Hello-World
-**Calder's Repo**
+*Calder's Repo*
 
 shimmy shimmy yay ?
 
 ## about me
 
-*insert picture here*
+![picture](https://github.com/astrocrunched/Hello-World.git) 
 
 Me doing some urban exploration <br>
 in the purple room of Jamestown
