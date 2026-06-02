@@ -5,11 +5,11 @@ project:
   title: REPO MAN
   # description:
   # keywords: []
-   authors: [Calder Puckett]
+  authors: [Calder Puckett]
   github: https://github.com/astrocrunched/Hello-World
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
   # options:
-    favicon: fav.ico
+  favicon: fav.ico
   #   logo: site_logo.png
