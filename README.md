@@ -1,7 +1,9 @@
 # Hello-World
-Calder's Repo
+**Calder's Repo**
 
 shimmy shimmy yay ?
+
+## about me
 
 *insert picture here*
 
